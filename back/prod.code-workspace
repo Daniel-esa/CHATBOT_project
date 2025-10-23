@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "prod",
+			"path": ".."
+		},
+		{
+			"name": "DB2",
+			"path": "../../prod_V1/prod/DB2"
+		},
+		{
+			"name": "tiktoken_cache",
+			"path": "../../tiktoken_cache"
+		}
+	],
+	"settings": {}
+}
